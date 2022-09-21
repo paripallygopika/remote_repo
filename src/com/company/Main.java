@@ -7,6 +7,6 @@ public class Main {
         System.out.println("im writing from intelliji ! ");
         System.out.println("changes made after adding into vcs ! ");
 	 // im writing the comments from the remote respo !!!!
-
+//i made changes  from intelliji 
     }
 }
